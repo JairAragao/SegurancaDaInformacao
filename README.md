@@ -4,7 +4,8 @@ Um site inspirado no reclame aqui destinado a remediação de situações onde o
 
 ## Integrantes
 
-* Caíque 
+* Caíque Santos 
 * Jair Aragão 
 * Nache Matos
 * Rafael Rezende
+* Robson Martins
