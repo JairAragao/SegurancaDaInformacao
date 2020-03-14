@@ -1,6 +1,6 @@
 # Segurança Da Informação
 
-Um site inspirado no reclame aqui destinado a remediação de situações onde o uso de dados feito por uma determinada empresa infringe os artigos da RGPD.
+Software que mostrará e solicitará permissão quando as políticas de uso de informações forem atualizadas e enviará um documento via email informando de maneira simples o uso e os responsaveis pelos dados assim como exigido na LGPD.
 
 ## Integrantes
 
