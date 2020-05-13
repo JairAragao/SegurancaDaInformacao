@@ -13,8 +13,8 @@ A integridade da informação passada será garantida por um hash.
 * Robson Martins
 
 ## 1° Entrega
-Hash ainda não implementado
-Front-end POP-UPs usuário final
+*Hash ainda não implementado
+*Front-end POP-UPs usuário final
 
 ## 2° Entrega
-Envio automático de email
+*Envio automático de email
