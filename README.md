@@ -11,3 +11,10 @@ A integridade da informação passada será garantida por um hash.
 * Nache Matos
 * Rafael Rezende
 * Robson Martins
+
+## 1° Entrega
+Hash ainda não implementado
+Front-end POP-UPs usuário final
+
+## 2° Entrega
+Envio automático de email
