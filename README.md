@@ -20,5 +20,5 @@ A integridade da informação passada será garantida por um hash.
 * Envio automático de email
 
 ## 3° Entrega
-* Quaestionario a ser preenchido pelos controladores dos dados
+* Questionario a ser preenchido pelos controladores dos dados
 * Adição dos dados preenchidos ao relatório
