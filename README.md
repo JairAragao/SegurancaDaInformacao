@@ -22,3 +22,7 @@ A integridade da informação passada será garantida por um hash.
 ## 3° Entrega
 * Questionario a ser preenchido pelos controladores dos dados
 * Adição dos dados preenchidos ao relatório
+
+## 4° Entrega
+* Algoritmo de hash aplicado 
+* Alteração do envio automático de emails com javax.email
