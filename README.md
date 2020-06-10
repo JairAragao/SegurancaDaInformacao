@@ -4,14 +4,6 @@ Software que mostrará e solicitará permissão quando as políticas de uso de i
 O documento será gerado com base nas informações passadas através de uma interface utilizada pelo responsavél da empresa.
 A integridade da informação passada será garantida por um hash.
 
-## Integrantes
-
-* Caíque Santos 
-* Jair Aragão 
-* Nache Matos
-* Rafael Rezende
-* Robson Martins
-
 ## 1° Entrega
 * Hash ainda não implementado
 * Front-end POP-UPs usuário final
@@ -26,3 +18,11 @@ A integridade da informação passada será garantida por um hash.
 ## 4° Entrega
 * Algoritmo de hash aplicado 
 * Alteração do envio automático de emails com javax.email
+
+## Integrantes
+
+* Caíque Santos 
+* Jair Aragão 
+* Nache Matos
+* Rafael Rezende
+* Robson Martins
