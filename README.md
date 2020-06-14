@@ -29,7 +29,8 @@ A integridade da informação passada será garantida por um hash.
 * Algoritmo de hash aplicado
 * Alteração do envio automático de emails, passando a usar javax.email
 * Passagem de respostas dadas no questionário para arquivo PDF
-
+![gifqpdf1](https://user-images.githubusercontent.com/40544962/84585127-bfc82300-ade2-11ea-879e-ddf5c6844106.gif)
+![gifpdf2](https://user-images.githubusercontent.com/40544962/84585129-c9ea2180-ade2-11ea-986a-91f471a1d88e.gif)
 
 
 ## Requisitos necessários para o funcionamento
