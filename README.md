@@ -28,7 +28,7 @@ A integridade da informação passada será garantida por um hash.
 ## 4° Entrega
 * Algoritmo de hash aplicado
 * Alteração do envio automático de emails, passando a usar javax.email
-* Passagem de respostas dadas no questionário para arquivo PDF
+* Passagem de respostas dadas no questionário para arquivo PDF usando PHP
 ![gifqpdf1](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_4/gifqpdf2.gif)
 ![gifpdf2](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_4/gifpdf2.gif)
 
