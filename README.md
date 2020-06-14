@@ -23,12 +23,14 @@ A integridade da informação passada será garantida por um hash.
 * Envio automático de email
 
 ## 3° Entrega
-* Questionario a ser preenchido pelos controladores dos dados
-* Adição dos dados preenchidos ao relatório
+* Criação do questionario a ser preenchido pelos controladores de dados
 
 ## 4° Entrega
-* Algoritmo de hash aplicado 
-* Alteração do envio automático de emails com javax.email
+* Algoritmo de hash aplicado
+* Alteração do envio automático de emails, passando a usar javax.email
+* Passagem de respostas dadas no questionário para arquivo PDF
+
+
 
 ## Requisitos necessários para o funcionamento
 
