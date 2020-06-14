@@ -2,12 +2,12 @@
 
 ## Integrantes
 
-* Caíque Santos 
+* Caíque Santos
+* Fabiola Siqueira
 * Jair Aragão 
 * Nache Matos
 * Rafael Rezende
 * Robson Martins
-* Fabiola Siqueira
 
 ## Proposta
 
@@ -27,13 +27,15 @@ A integridade da informação passada será garantida por um hash.
 
 ## 4° Entrega
 * Algoritmo de hash aplicado
+
 * Alteração do envio automático de emails, passando a usar javax.email
+
 * Passagem de respostas dadas no questionário para arquivo PDF usando PHP
 ![gifqpdf1](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_4/gifqpdf2.gif)
 ![gifpdf2](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_4/gifpdf2.gif)
 
 
-## Requisitos necessários para o funcionamento
+## Tecnologias e Requisitos necessários para o funcionamento dos códigos
 
 Transformação do questionario html em pdf com PHP
 1.	Instalar o composer https://getcomposer.org/download/
