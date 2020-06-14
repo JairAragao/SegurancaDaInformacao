@@ -29,6 +29,7 @@ A integridade da informação passada será garantida por um hash.
 * Alteração do envio automático de emails, passando a usar javax.email
 
 * Algoritmo de hash aplicado a documentos PDF
+
 [![Descrição do algoritmo de Hash](http://img.youtube.com/vi/NNC2F3Ef_oI/0.jpg)](http://www.youtube.com/watch?v=NNC2F3Ef_oI "Funcionamento Algoritmo de Hash")
 
 * Passagem de respostas dadas no questionário para arquivo PDF usando PHP
