@@ -38,7 +38,7 @@ A integridade da informação passada será garantida por um hash.
 
 ## 5° Entrega
 
-* Criação de banco de dados de clientes
+* Criação de banco de dados de clientes e controladores
 ![bancos](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_5/banco.gif)
 
 * Criação de login para os controladores de dados
