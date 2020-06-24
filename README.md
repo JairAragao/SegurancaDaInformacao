@@ -41,9 +41,11 @@ A integridade da informação passada será garantida por um hash.
 * Adição de condições de preenchimento e interação entre pop-ups
 ![pop-ups](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_5/pop-ups.gif)
 
-* Integração de pop-up com envio de email
-
 * Criação de login para os controladores de dados acessarem o questionário
+![login1](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_5/login1.gif)
+![login2](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_5/login2.gif)
+
+* Integração de pop-up com envio de email
 
 * Criação de banco de dados
 
