@@ -41,7 +41,7 @@ A integridade da informação passada será garantida por um hash.
 * Criação de banco de dados de clientes
 ![bancos](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_5/banco.gif)
 
-* Criação de login para os controladores de dados acessarem o questionário
+* Criação de login para os controladores de dados
 ![login1](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_5/login1.gif)
 ![login2](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_5/login2.gif)
 
