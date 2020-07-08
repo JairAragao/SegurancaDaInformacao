@@ -48,6 +48,12 @@ A integridade da informação passada será garantida por um hash.
 * Adição de condições de preenchimento e interação entre pop-ups
 ![pop-ups](https://github.com/JairAragao/SegurancaDaInformacao/blob/master/imagens/entrega_5/pop-ups.gif)
 
+## 6° Entrega
+
+* Integração de relatorio com envio de email						
+* Integração de pop-up com envio de email						
+* Correção de erro na integração de hash						
+* Configuração de registro de data e hora											
 
 ## Tecnologias e Requisitos necessários para o funcionamento dos códigos
 
