@@ -3,11 +3,17 @@
 ## Integrantes
 
 * Caíque Santos
+https://www.linkedin.com/in/caique-rafael-dos-santos-477442195/
 * Fabiola Siqueira
-* Jair Aragão 
+https://www.linkedin.com/mwlite/in/fab%C3%ADola-siqueira-874b09192
+* Jair Aragão
+
 * Nache Matos
+
 * Rafael Rezende
+https://www.linkedin.com/mwlite/in/rafael-rezende-633249143
 * Robson Martins
+https://www.linkedin.com/in/robsonmartinssilva
 
 ## Proposta
 
